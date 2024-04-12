@@ -1,0 +1,34 @@
+• Mention name or email Id: Chintan Vaja - chintanvaja007@gmail.com 
+
+• Task Title: Car Landing Page
+
+• Task Description: The task involved creating an HTML document for a Cars Landing Page. The page should display information about various car brands and their performance metrics.
+
+• Steps Taken: 
+    1. Created the HTML structure with appropriate tags such as <html>, <head>, <title>, <meta>, <body>, <div>, <nav>, <ul>, <li>, <a>, <h1>, <h2>, <p>, and <script>.
+    2. Included metadata in the <head> section for character encoding and page title.
+    3. Imported external stylesheets from Google Fonts and local CSS file for styling.
+    4. Designed the layout with a header containing navigation links and performance information section.
+    5. Linked JavaScript file for scripting functionalities.
+    6.Added appropriate classes and IDs for styling and scripting purposes.
+
+• Challenges Faced: 
+    1. Ensuring proper layout and alignment of elements.
+    2. Implementing responsive design for different screen sizes.
+    3. Integrating external resources without causing conflicts.
+    4. Implementing dynamic content updates based on user interactions.
+
+• Solutions Implemented: 
+    1. Utilized CSS flexbox and grid for layout management to ensure proper alignment.
+    2.Implemented media queries in CSS for responsive design adjustments.
+    3. Carefully managed CSS specificity to prevent conflicts between external and local stylesheets.
+    4. Used JavaScript event handling to update content dynamically based on user interactions.
+
+• Learnings: 
+    1. Improved understanding of HTML structure and semantics.
+    2. Enhanced proficiency in CSS layout techniques, including flexbox and grid.
+    3. Learned effective strategies for integrating external resources into web pages.
+    4. Gained experience in JavaScript event handling and DOM manipulation for interactive web features.
+    5. Improved skills in troubleshooting and problem-solving when faced with layout and scripting challenges.
+
+• Project Update: Task Completed.
